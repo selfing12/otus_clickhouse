@@ -168,10 +168,6 @@ ORDER BY total DESC
 Peak memory usage: 117.80 KiB.
 ```
 
-Скриншот рабочего инстанса clickhouse-server прилагаю:
-![img.png](img.png)
-
-
 ### Производительность:
 Параметры `max_memory_usage, max_threads, max_execution_time`
 ```md
@@ -180,3 +176,6 @@ Peak memory usage: 117.80 KiB.
 | **Второй замер (уменьшенные)** | 100 MB             | 2            | 30 сек               | 29.626                   | ~0.004 сек                      |
 
 ```
+
+Скриншот рабочего инстанса clickhouse-server прилагаю:
+![files/image.png](image.png)
