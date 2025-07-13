@@ -178,4 +178,4 @@ Peak memory usage: 117.80 KiB.
 ```
 
 Скриншот рабочего инстанса clickhouse-server прилагаю:
-![files/image.png](image.png)
+![image.png](files/image.png)
